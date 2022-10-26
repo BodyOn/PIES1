@@ -17,6 +17,7 @@ namespace BodyOn.Views
         public ClientView()
         {
             InitializeComponent();
+            this.page
         }
 
         private void ClientView_Load(object sender, EventArgs e)
